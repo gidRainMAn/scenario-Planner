@@ -1,0 +1,23 @@
+{
+  "name": "scenario-planner",
+  "version": "1.0.0",
+  "description": "scenario planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gidRainMAn/scenario-Planner.git"
+  },
+  "keywords": [
+    "scenatio",
+    "planner"
+  ],
+  "author": "Gideon Anthony D'Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gidRainMAn/scenario-Planner/issues"
+  },
+  "homepage": "https://github.com/gidRainMAn/scenario-Planner#readme"
+}
